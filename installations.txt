@@ -1,0 +1,16 @@
+install python and in it install pip. After that install these packages:-
+pip install numpy
+pip install pandas
+pip install scikit
+pip install matplotlib
+pip install opencv-python
+pip install keras
+pip install tensorflow
+pip install sklearn
+
+and install anaconda, notebook.
+and open notebook, it will open a directory in chrome and open the python file(ipynb) in it.
+
+
+Same project on internet
+https://www.kaggle.com/code/yonatanrabinovich/bigmart-sales-data-analysis-and-prediction
